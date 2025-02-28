@@ -21,19 +21,23 @@ Ce script PowerShell permet de gérer facilement les lecteurs chiffrés avec Bit
 ## 🚀 Utilisation  
 1️⃣ Ouvrir une console PowerShell en mode administrateur.  
 2️⃣ Exécuter le script avec la commande suivante :  
-
+```
 .\bitlocker-windows-script.ps1
-
+```
 3️⃣ Suivre les instructions affichées à l'écran.  
 
 ## 📁 Notes  
-📌 **Le fichier de récupération est sauvegardé sous :**  
+📌 **Le fichier de récupération est sauvegardé sous :**
+```
 C:\BitLocker-RecoveryKey-<lettre_du_lecteur>.txt
+```
 
 📌 **Un fichier journal enregistre les actions sous :**  
+```
 C:\BitLocker-Log.txt
+```
 
 
 ## ⚠️ Avertissement  
-❗ Ce script est fourni "tel quel", sans garantie. Utilisez-le à vos propres risques.  
-❗ Vérifiez toujours l'intégrité de vos données avant d'effectuer des actions sur BitLocker. 
+Ce script est fourni "tel quel", sans garantie. Utilisez-le à vos propres risques.  
+Vérifiez toujours l'intégrité de vos données avant d'effectuer des actions sur BitLocker. 
