@@ -19,5 +19,5 @@ Ce script PowerShell permet de gérer facilement les lecteurs chiffrés avec Bit
 ## 🚀 Utilisation  
 1️⃣ Ouvrir une console PowerShell en mode administrateur.  
 2️⃣ Exécuter le script avec la commande suivante :  
-   ```powershell
-   .\BitLocker-Windows-Script.ps1
+   ```
+   .\bitLocker-windows-script.ps1
